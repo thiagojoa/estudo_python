@@ -1,2 +1,2 @@
-# Python
-Repositorio onde está armazenado meus arquivos Python
+# Web Scraping em Python
+Exemplo de scraping de um e-commerce
